@@ -1,0 +1,3 @@
+class Konsumen {}
+
+class Produk {}
